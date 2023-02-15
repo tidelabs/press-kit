@@ -1,6 +1,8 @@
-<div style="margin-bottom: 2rem; display: flex; justify-content: center;">
-    <img src="./Assets/Logo/dark-logo.svg" width="300" />
-</div>
+<p align="center">
+  <img src="./Assets/Logo/dark-logo.svg" width="300">
+</p>
+
+<br />
 
 # Press Kit
 

@@ -2,8 +2,6 @@
   <img src="./Assets/Logo/dark-logo.svg" width="300">
 </p>
 
-<br />
-
 # Press Kit
 
 ## How to access assets
